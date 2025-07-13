@@ -1,4 +1,4 @@
-# CIRRHOSIS AI SUITE
+# CIRRHOSIS AI 
 
 End-to-end pipelines for **liver-cirrhosis MRI segmentation** and **clinical-outcome prediction**.  
 The project combines computer-vision models in Python (UNet-Lite, SynergyNet) with a tabular fully-connected network (FCNN) to forecast patient status.
