@@ -19,9 +19,7 @@ The project combines computer-vision models in Python (UNet-Lite, SynergyNet) wi
 | `README.md` | This document. |
 
 > **Datasets are *not* stored in the repository.**  
-> • `Cirrhosis_T2_2D.zip` – axial T₂ MRI slices + masks → unzip to `data/Cirrhosis_T2_2D/`  
-> • `cirrhosis.csv` – anonymised clinical table → place in `data/`
-
+Datasets are proprietary – please contact the authors or use your own data with the same folder structure.
 ---
 
 ## Summary of Methods & Results
