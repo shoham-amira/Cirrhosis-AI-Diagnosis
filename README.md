@@ -15,7 +15,6 @@ The project combines computer-vision models in Python (UNet-Lite, SynergyNet) wi
 | `src/unet_lite_model_D2.py` | Script version of UNet-Lite notebook (CLI-ready). |
 | `src/synergynet_model_2d_cirrhosis.py` | Script version of SynergyNet notebook. |
 | `src/fcnn_tabular_classification_.py` | Script version of tabular workflow. |
-| `requirements.txt` | Python dependencies (Torch ≥ 2.3, TF ≥ 2.19, etc.). |
 | `README.md` | This document. |
 
 > **Datasets are *not* stored in the repository.**  
